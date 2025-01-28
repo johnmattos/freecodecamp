@@ -51,3 +51,6 @@ git branch
 git push -u origin main
 git pull origin main
 git add .
+git commit -m "Resolved merge conflicts"
+git push -u origin main
+git pull origin main --rebase
